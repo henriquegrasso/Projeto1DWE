@@ -1,0 +1,26 @@
+body {
+	background-color: #87CEEB 
+}
+
+h1{
+	text-align: center;
+}
+
+a.menu:link {
+color:#FFCC00;
+font-size: 30px;
+}
+a.menu:visited {
+color:#669900;
+}
+a.menu:hover {
+color:#0000FF;
+text-decoration:underline overline;
+}
+a.menu:active {
+color:#FFFFFF;
+text-decoration:none;
+background-color:#000000;
+}
+			
+hr{color: blue; height: 10px; background-color: brown }
